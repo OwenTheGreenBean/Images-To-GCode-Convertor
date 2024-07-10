@@ -1,10 +1,9 @@
 # Application to Convert From PNG to Gcode
 This application creates an easy way to convert from a png image to gcode that can then be used on a pen plotter. When the application is run a screen will pop that will allow the user to choose an image to convert and then the size and pen up and down commands for the generated Gcode. Once exported to the directory a generated version of the image as Gcode will be availble.
-Default application:
 <img width="632" alt="Screenshot 2024-07-09 at 11 48 04 PM" src="https://github.com/OwenTheGreenBean/Pen_Plotter/assets/148368718/94cab25a-cb8b-49f4-a18a-9800a00327b1">
-With loaded image:
+Default application:
 <img width="632" alt="Screenshot 2024-07-09 at 11 53 50 PM" src="https://github.com/OwenTheGreenBean/Pen_Plotter/assets/148368718/5ed0b1ce-ec05-46df-bfd6-f85f1c62edfc">
-
+With loaded image:
 ## Requirments:
 Python3 or higher, with Python TKinter should come installed. Using pip running '''pip install opencv-python numpy''' will install the nessacary librarys for the application to function.
 
