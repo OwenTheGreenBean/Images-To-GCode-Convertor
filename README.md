@@ -11,7 +11,11 @@ __With loaded image__
 
 
 ## Requirments:
-Python3 or higher, with Python TKinter should come installed. Using pip running '''pip install opencv-python numpy''' will install the nessacary librarys for the application to function.
+Python3 or higher, with Python TKinter should come installed. Using pip running
+
+```pip install opencv-python numpy``` 
+
+will install the nessacary librarys for the application to function.
 
 ## What is does
 
