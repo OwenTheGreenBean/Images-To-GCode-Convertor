@@ -1,4 +1,7 @@
 # Application to Convert From PNG to Gcode
+
+![plotter](https://github.com/user-attachments/assets/77dcaa5e-4e6d-494f-b558-7b24d0b9dbb2)
+
 This application creates an easy way to convert from a png image to gcode that can then be used on a pen plotter. When the application is run a screen will pop that will allow the user to choose an image to convert and then the size and pen up and down commands for the generated Gcode. Once exported to the directory a generated version of the image as Gcode will be availble.
 
 __Default application__
@@ -30,6 +33,6 @@ The image is flipped and mirrored because I am using Universal Gcode Sender for 
 
 ## STL files
 
-Theses files can be used print a model of the pen plotter and be used. I used PLA for printing on my ELLEGO neptune 3 pro. For other materials I used M3 nuts and bolts, along with some paracord, some flag rod from home depot and a pen.
+Theses files can be used print a model of the pen plotter and be used. I used PLA for printing on my ELLEGO neptune 3 pro. For other materials I used M3 nuts and bolts, along with some paracord, some flag rod from home depot and a pen. Print with 15% infill and supports at 55 degrees.
 
 
